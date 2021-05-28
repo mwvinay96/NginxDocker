@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkWuukl3AJUo3hTqc/jSt/xA2JWfnBTC/TGYlWAA4bJKCR/XI3ngxXF7km3tn9aceULMfxCF7apQ5wuQpZ88IQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.NET Projects\\NginxDocker\\TestAPI\\TestAPI2\\TestAPI2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Vinay Adiga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

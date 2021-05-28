@@ -1,0 +1,22 @@
+version: "3.7"
+
+services:
+
+  reverseproxy:
+    build:
+      context: ./Nginx
+      dockerfile: Nginx.Dockerfile
+    ports:
+      - "8080:80"
+      - "8081:443"
+    restart: always
+
+  api:
+    depends_on:
+      - reverseproxy
+    build:
+      context: ./TestAPI
+      dockerfile: Dockerfile
+    expose:
+      - "5001"
+    restart: always
